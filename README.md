@@ -20,7 +20,8 @@
     ├── App.js # This is the root of the app.
     ├── App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
     ├── BooksAPI.js # A JavaScript API for the provided Udacity backend.
-    ├── BookShelf.js # Used for rendering the shelves and books.
+    ├── bookShelf.js # Used for rendering the shelves.
+    ├── Shelf.js # Used for rendering the books.
     ├── search.js # Provides a search form and shows the results.
     ├── icons # Helpful images for the app.
     │   ├── add.svg
